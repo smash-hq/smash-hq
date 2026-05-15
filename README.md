@@ -1,4 +1,4 @@
-# Hi, I'm [你的名字/ID] 👋
+# Hi, I'm smash-hq 👋
 
 一名后端开发工程师，目前专注于云原生技术栈与微服务架构的实践。
 
@@ -30,7 +30,7 @@
 
 ### 📬 联系方式
 
-- **Email:** [smash.qi.huang@gmail.com]
+- **Email:** smash.qi.huang@gmail.com
 
 ---
 "Keep it simple, make it work."
