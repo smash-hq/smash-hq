@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm [你的名字/ID] 👋
 
-<!--
-**smash-hq/smash-hq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名后端开发工程师，目前专注于云原生技术栈与微服务架构的实践。
 
-Here are some ideas to get you started:
+### 💻 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **后端开发:** 
+  - 熟练使用 **Go** (Gin, gRPC) 与 **Java** 进行业务开发。
+  - 熟悉微服务设计模式，处理过计费系统、资源管理等核心业务逻辑。
+- **云原生 & 运维:**
+  - 能够独立维护 **Kubernetes (K3s)**, Docker 及容器化部署。
+  - 熟悉 Linux 环境，具备 GCP、AWS 等云平台的基础设施配置经验。
+- **中间件 & 数据库:**
+  - 常用 Redis, MySQL, Nginx 以及 MinIO 对象存储。
+
+### 🛠 实践经验
+
+- **微服务架构设计:** 
+  参与设计并实现了基于 gRPC 的微服务系统，涵盖用户权限、资源调度及自动化计费模块。
+- **系统自动化:** 
+  习惯编写脚本或使用工具（如 Telegram Bot）来实现系统告警与运维自动化，提升开发效率。
+- **网络与安全:** 
+  处理过 CDN 调度、SSL 证书自动化部署及相关的网络排障工作。
+
+### 🔍 兴趣与探索
+
+- **AI 辅助编程:** 尝试将 AI Agent引入日常工作流，探索自动化生产力。
+- **硬件与性能:** 关注硬件迭代（如 GDDR7 显存技术）对系统性能的影响。
+- **日常爱好:** 业余时间喜欢 CS2，偶尔研究下汽车技术。
+
+### 📬 联系方式
+
+- **Email:** [smash.qi.huang@gmail.com]
+
+---
+"Keep it simple, make it work."
