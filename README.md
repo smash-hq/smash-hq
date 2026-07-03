@@ -25,4 +25,4 @@
 - **Email:** smash.qi.huang@gmail.com
 
 ---
-"Keep it simple, make it work."
+Keep it simple, make it work.
